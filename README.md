@@ -52,7 +52,7 @@ The data used is Lita_Capsule_Dataset (SalesData), which was shared by Ladies In
 ### Exploratory Data Analysis
 ---
 .....................................
--With the use of <Pivot Tables>, What is the total sales by:
+-What is the total sales by:
    1. Product
    2. Region and
    3. Month
