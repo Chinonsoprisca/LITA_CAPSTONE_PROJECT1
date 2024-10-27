@@ -1,8 +1,8 @@
 # LITA_CAPSULE_PROJECT1
-This is the documentation of my first Data Analysis Bootcamp Project.
+This is the documentation of my Data Analysis Bootcamp Project1 with @INCUBATOR HUB.
 
 ## Project Title
-Sales Performance Analysis 
+Sales Performance Analysis for a Retail Store 
  
 [Project Overview](#project-overview)
 
@@ -44,14 +44,14 @@ The data used is Lita_Capsule_Dataset (SalesData), which was shared by Ladies In
 
 ### Data Cleaning and Preparations
 ---
-................................
+This involves identifying data errors and then changing, updating or removing data to correct them.
 1. Data loading and Inspection
 2. Verifying blank cells
 3. Data Cleaning and Formatting
 
 ### Exploratory Data Analysis
 ---
-.....................................
+_Excel_
 -What is the total sales by:
    1. Product
    2. Region and
@@ -60,6 +60,17 @@ The data used is Lita_Capsule_Dataset (SalesData), which was shared by Ladies In
    1. Average sales per product
    2. Total revenue by region
       using Excel formulas
+
+_SQL_
+-Retrieve the total sales for each product category.
+-Find the number of sales transactions in each region.
+-Find the highest-selling product by total sales value.
+-Calculate total revenue per product.
+-Calculate monthly sales totals for the current year.
+-Find the top 5 customers by total purchase amount.
+-Calculate the percentage of total sales contributed by each region.
+-Identify products with no sales in the last quarter.
+
 
 ### Data Analysis
 ---
