@@ -118,32 +118,16 @@ FROM ProjectSalesData
 GROUP BY Region
 ORDER BY TotalSalesPercentage DESC
 
----------------------------------------------------------
-SELECT DATEPART(QUARTER,GETDATE()) 
-FROM ProjectSalesData
-
-SELECT DATEPART(QUARTER,OrderDate) 
-FROM ProjectSalesData
-
-SELECT Product, 
-SUM(Sales) AS TotalSales FROM [dbo].[ProjectSalesData]
-WHERE
-  OrderDate >= DATEADD(QUARTER,DATEDIFF(QUARTER,0,GETDATE())-1,0)
-AND OrderDate <= DATEADD(QUARTER,DATEDIFF(QUARTER,0,GETDATE()),0)
-GROUP BY Product
-ORDER BY 2 DESC
----------------------------------------------------
-
 ---Identify products with no sales in the last quarter------
 SELECT Product FROM [dbo].[ProjectSalesData]
-WHERE Product NOT IN
-(
+WHERE
+Product NOT IN(
     SELECT Product FROM [dbo].[ProjectSalesData]
     WHERE OrderDate >= DATEADD(qq,DATEDIFF(QUARTER,0,GETDATE())-1,0)
     AND OrderDate <= DATEADD(qq,DATEDIFF(QUARTER,0,GETDATE()),0)
     GROUP BY Product
 )
-GROUP BY Product
+GROUP BY Product```
 ### Data Visualization
 
 
