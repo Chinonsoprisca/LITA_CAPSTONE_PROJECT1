@@ -64,6 +64,7 @@ _Excel_
 ### Data Analysis
 ---
 
+![Screenshot 2024-11-03 224839](https://github.com/user-attachments/assets/6f36cddb-8daf-4229-bbfc-8ed40d238be7)
 
 ```SQL
 
