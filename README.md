@@ -66,6 +66,11 @@ _Excel_
 
 ![Screenshot 2024-11-03 224839](https://github.com/user-attachments/assets/6f36cddb-8daf-4229-bbfc-8ed40d238be7)
 
+![Screenshot 2024-11-03 224744](https://github.com/user-attachments/assets/8d212039-322a-44d9-afe4-6feef09a6c6a)
+
+![Screenshot 2024-11-03 224726](https://github.com/user-attachments/assets/ec140001-1478-45d5-aee4-def7395fca91)
+
+
 ```SQL
 
 CREATE DATABASE LitaProject1
