@@ -63,7 +63,7 @@ _Excel_
 
 ### Data Analysis
 ---
-..........code
+
 
 ```SQL
 
