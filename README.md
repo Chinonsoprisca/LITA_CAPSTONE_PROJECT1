@@ -64,6 +64,8 @@ _Excel_
 ### Data Analysis
 ---
 
+![Screenshot 2024-11-03 231333](https://github.com/user-attachments/assets/3030ca07-f979-4e8f-96ff-06a5a456b3e2)
+
 ![Screenshot 2024-11-03 224839](https://github.com/user-attachments/assets/6f36cddb-8daf-4229-bbfc-8ed40d238be7)
 
 ![Screenshot 2024-11-03 224744](https://github.com/user-attachments/assets/8d212039-322a-44d9-afe4-6feef09a6c6a)
