@@ -29,7 +29,7 @@ The data used is Lita_Capsule_Dataset (SalesData), which was shared by Ladies In
 
 ### Tools Used
 ---
-- Microsoft Excel [Download Here]() 
+- Microsoft Excel 
   1. For Data Cleaning
   2. For Analysis
   3. For Visualization
@@ -52,25 +52,14 @@ This involves identifying data errors and then changing, updating or removing da
 ### Exploratory Data Analysis
 ---
 _Excel_
--What is the total sales by:
+- What is the total sales by:
    1. Product
    2. Region and
    3. Month
--Calculate Metrics such as:
+- Calculate Metrics such as:
    1. Average sales per product
    2. Total revenue by region
       using Excel formulas
-
-_SQL_
--Retrieve the total sales for each product category.
--Find the number of sales transactions in each region.
--Find the highest-selling product by total sales value.
--Calculate total revenue per product.
--Calculate monthly sales totals for the current year.
--Find the top 5 customers by total purchase amount.
--Calculate the percentage of total sales contributed by each region.
--Identify products with no sales in the last quarter.
-
 
 ### Data Analysis
 ---
