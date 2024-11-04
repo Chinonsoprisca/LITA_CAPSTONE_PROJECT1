@@ -135,7 +135,8 @@ Product NOT IN(
     AND OrderDate <= DATEADD(qq,DATEDIFF(QUARTER,0,GETDATE()),0)
     GROUP BY Product
 )
-GROUP BY Product```
+GROUP BY Product
+```
 
 ### Data Visualization
 ---
