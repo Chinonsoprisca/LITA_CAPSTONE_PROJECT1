@@ -1,4 +1,4 @@
-# LITA_CAPSULE_PROJECT1
+# LITA_CAPSTONE_PROJECT1
 This is the documentation of my Data Analysis Bootcamp Project1 with @INCUBATOR HUB.
 
 ## Project Title
@@ -25,7 +25,7 @@ In this project, I am tasked with analysing sales performance of a retail store.
 
 ### Data Source
 ---
-The data used is Lita_Capsule_Dataset (SalesData), which was shared by Ladies In Tech Africa (LITA) through LMS, to be downloaded by her enrolled Data Analysis Students for the Lita_Capsule_Project.
+The data used is Lita_Capstone_Dataset (SalesData), which was shared by Ladies In Tech Africa (LITA) through LMS, to be downloaded by her enrolled Data Analysis Students for the Lita_Capstone_Project.
 
 ### Tools Used
 ---
