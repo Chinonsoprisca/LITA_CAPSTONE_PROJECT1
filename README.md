@@ -147,7 +147,5 @@ GROUP BY Product```
 
 ![Screenshot 2024-11-04 130751](https://github.com/user-attachments/assets/b41f2a06-2cdc-4d78-94cf-db9a84662c04)
 
-|Heading1|Heading2|Heading3|
-|--------|--------|--------|
-|Table1|Table2|Table3|
+
 
