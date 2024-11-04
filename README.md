@@ -147,8 +147,5 @@ GROUP BY Product
 
 ![Screenshot 2024-11-03 224609](https://github.com/user-attachments/assets/6b286016-9469-4ff9-b91f-7616275f3045)
 
-![Screenshot 2024-11-04 130751](https://github.com/user-attachments/assets/c22e9013-a7b7-422a-9991-6c256d87c57c)
-
-
-
+![Power BI Visual](https://github.com/user-attachments/assets/2a424d7a-cac5-454c-8fe0-40e6f2578625)
 
