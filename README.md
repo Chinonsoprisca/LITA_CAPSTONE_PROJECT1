@@ -136,9 +136,16 @@ Product NOT IN(
     GROUP BY Product
 )
 GROUP BY Product```
+
 ### Data Visualization
 
+![Screenshot 2024-11-03 224816](https://github.com/user-attachments/assets/fb4118b3-4c1e-4386-9811-c2d337171e85)
 
+![Screenshot 2024-11-03 224609](https://github.com/user-attachments/assets/afb05518-d6f2-4d91-b69e-aa302e255491)
+
+![Screenshot 2024-11-03 224440](https://github.com/user-attachments/assets/ed8a80cb-3c4a-4e37-ad78-7cb1650c5370)
+
+![Screenshot 2024-11-04 130751](https://github.com/user-attachments/assets/b41f2a06-2cdc-4d78-94cf-db9a84662c04)
 
 |Heading1|Heading2|Heading3|
 |--------|--------|--------|
