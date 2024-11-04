@@ -64,13 +64,13 @@ _Excel_
 ### Data Analysis
 ---
 
-![Screenshot 2024-11-03 231333](https://github.com/user-attachments/assets/3030ca07-f979-4e8f-96ff-06a5a456b3e2)
+![Screenshot 2024-11-03 231333](https://github.com/user-attachments/assets/7969f572-3a5e-4919-b970-dad481c712cf)
 
-![Screenshot 2024-11-03 224839](https://github.com/user-attachments/assets/6f36cddb-8daf-4229-bbfc-8ed40d238be7)
+![Screenshot 2024-11-03 224839](https://github.com/user-attachments/assets/ccebd50d-f171-4da4-948c-8fefb1697206)
 
-![Screenshot 2024-11-03 224744](https://github.com/user-attachments/assets/8d212039-322a-44d9-afe4-6feef09a6c6a)
+![Screenshot 2024-11-03 224744](https://github.com/user-attachments/assets/3998b33f-53b0-4b12-aa97-30776da28bdf)
 
-![Screenshot 2024-11-03 224726](https://github.com/user-attachments/assets/ec140001-1478-45d5-aee4-def7395fca91)
+![Screenshot 2024-11-03 224726](https://github.com/user-attachments/assets/0f080013-7880-45b8-b95c-483ccde05889)
 
 
 ```SQL
@@ -140,13 +140,15 @@ GROUP BY Product
 
 ### Data Visualization
 ---
-![Screenshot 2024-11-03 224816](https://github.com/user-attachments/assets/fb4118b3-4c1e-4386-9811-c2d337171e85)
 
-![Screenshot 2024-11-03 224609](https://github.com/user-attachments/assets/afb05518-d6f2-4d91-b69e-aa302e255491)
+![Screenshot 2024-11-03 224816](https://github.com/user-attachments/assets/22e80175-5561-46b2-94fd-228622b87214)
 
-![Screenshot 2024-11-03 224440](https://github.com/user-attachments/assets/ed8a80cb-3c4a-4e37-ad78-7cb1650c5370)
+![Screenshot 2024-11-03 224440](https://github.com/user-attachments/assets/2679ebaf-7922-445d-b229-07420d1d0e21)
 
-![Screenshot 2024-11-04 130751](https://github.com/user-attachments/assets/b41f2a06-2cdc-4d78-94cf-db9a84662c04)
+![Screenshot 2024-11-03 224609](https://github.com/user-attachments/assets/6b286016-9469-4ff9-b91f-7616275f3045)
+
+![Screenshot 2024-11-04 130751](https://github.com/user-attachments/assets/c22e9013-a7b7-422a-9991-6c256d87c57c)
+
 
 
 
