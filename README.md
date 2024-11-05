@@ -18,6 +18,10 @@ Sales Performance Analysis for a Retail Store
 
 [Data Visualization](#data-visualization)
 
+[Findings and Recommendations](#findings-and-recommendations)
+
+
+
 
 ### Project Overview
 ---
