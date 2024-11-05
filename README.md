@@ -18,7 +18,7 @@ Sales Performance Analysis for a Retail Store
 
 [Data Visualization](#data-visualization)
 
-[Findings and Recommendations](#findings-and-recommendations)
+[Finding and Recommendation](#finding-and-recommendation)
 
 
 
@@ -152,7 +152,7 @@ GROUP BY Product
 
 ![Power BI Visual](https://github.com/user-attachments/assets/2a424d7a-cac5-454c-8fe0-40e6f2578625)
 
-### Findings and Recommendations
+### Finding and Recommendation
 - South had the highest sales in both sales year (2023 and 2024).
 - West had lowest sales total.
 - Shoes had the highest sales in both sales year and Socks had lowest sales.
