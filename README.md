@@ -51,7 +51,6 @@ This involves identifying data errors and then changing, updating or removing da
 
 ### Exploratory Data Analysis
 ---
-_Excel_
 - What is the total sales by:
    1. Product
    2. Region and
@@ -155,7 +154,7 @@ GROUP BY Product
 - Shoes had the highest sales in both sales year and Socks had lowest sales.
 - February is the most productive year in both sales year.
 
-- More goods should be supplied to the South since it generates more revenue, this will help to increase sales turnover, more brancehes can also be established in the South.
-- Different brands of shoes should be supplied to all regions, because customers since to purchase more of it, and their purchasing interest should be sustained with multi-brand choice.
+- More goods should be supplied to the South since it generates more revenue, this will help to increase sales turnover, more branches can also be established in the South.
+- Different brands of shoes should be supplied to all regions, because customers seem to purchase more of it, and their purchasing interest should be sustained with multi-brand choice.
 - I suggest that more investigation should be carried out on the West store to know the cause of its low sales.
 - it could be that people don't wear Socks much, which causes the sales to be low. If the revenue is not more than the capital, I suggest it should be removed from the stores.
