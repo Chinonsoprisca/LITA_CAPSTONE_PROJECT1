@@ -149,3 +149,5 @@ GROUP BY Product
 
 ![Power BI Visual](https://github.com/user-attachments/assets/2a424d7a-cac5-454c-8fe0-40e6f2578625)
 
+### Findings and Recommendations
+- 
