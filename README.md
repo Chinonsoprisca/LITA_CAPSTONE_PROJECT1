@@ -158,4 +158,4 @@ GROUP BY Product
 - More goods should be supplied to the South since it generates more revenue, this will help to increase sales turnover, more brancehes can also be established in the South.
 - Different brands of shoes should be supplied to all regions, because customers since to purchase more of it, and their purchasing interest should be sustained with multi-brand choice.
 - I suggest that more investigation should be carried out on the West store to know the cause of its low sales.
-- it could be that people don't wear socks much, which causes the sales to be low. If the revenue is not more than the capital, I suggest it should be removed from the stores.
+- it could be that people don't wear Socks much, which causes the sales to be low. If the revenue is not more than the capital, I suggest it should be removed from the stores.
